@@ -1,0 +1,40 @@
+
+nav { 
+  text-align:center;
+  font-size: 30pt;
+  color:maroon;
+
+}
+ 
+a { 
+  color:maroon;
+  text-align:center;
+
+}
+
+body { 
+  background-color:lightpink;
+  color:#006400;
+  margin:25px 80px 25px 80px; 
+  text-align:center;
+  list-style-position: inside;
+  font-size:20px
+  
+}
+
+h1 {
+  font-family:"Times New Roman", Times, serif;
+  text-align:center;
+}
+
+h2{
+  font-family:"Times New Roman", Times, serif;
+ } 
+
+P {
+  font-family:Verdana, Helvetica, sans-serif;
+ 
+}
+
+
+
